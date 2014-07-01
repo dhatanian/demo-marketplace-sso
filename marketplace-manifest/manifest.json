@@ -1,0 +1,13 @@
+{
+    "name": "Demo of SSO to marketplace",
+    "version": "0.1",
+	"manifest_version": 2,
+    "description": "Demonstration of the seamless SSO with the marketplace SDK",
+    "icons": {
+	    "128": "images/big.png",
+        "16": "images/small.png"
+    },
+    "container": ["DOMAIN_INSTALLABLE"],
+    "api_console_project_id": "368362145081"
+}
+
